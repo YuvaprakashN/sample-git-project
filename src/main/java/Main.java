@@ -1,8 +1,6 @@
 
 public class Main {
-//changes done 2
-	//ssh fetch
-	//conflict pull
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -11,4 +9,7 @@ public class Main {
 	//Comment 1
 	//Comment 2
 	//Comment 4
+	
+	//Stash commit
+
 }
