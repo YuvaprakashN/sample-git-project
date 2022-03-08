@@ -3,6 +3,9 @@ public class Employee {
 
 	private String name;
 	private int age;
+	
+	private int salary;
+	private String address1;
 	public String getName() {
 		return name;
 	}
