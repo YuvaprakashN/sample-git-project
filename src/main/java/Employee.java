@@ -6,7 +6,7 @@ public class Employee {
 	//conflict pull local
 	private String name;
 	private int age;
-	private int salary;
+	private double salary;
 	public String getName() {
 		return name;
 	}
